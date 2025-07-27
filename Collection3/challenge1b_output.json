@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare vegetarian buffet-style dinner menu for corporate gathering.",
+    "processing_timestamp": "2025-07-27T18:40:59.240004"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "•\n \n4 large eggs \n•\n \n1/4 cup milk \n•\n \nSalt and pepper to taste \n•\n \n1 tablespoon butter \nInstructions:",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "•\n \n4 slices of bread \n•\n \n2 large eggs \n•\n \n1/2 cup milk \n•\n \n1 teaspoon vanilla extract",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "•\n \n1 cup Greek yogurt \n•\n \n1/2 cup granola \n•\n \n1/2 cup fresh berries \n•\n \nHoney for drizzling \nInstructions:",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "•\n \nCook in the skillet until the tortilla is golden brown and crispy. \n•\n \nServe with salsa.",
+      "importance_rank": 4,
+      "page_number": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "•\n \n6 large eggs \n•\n \n1/4 cup milk \n•\n \n1/2 cup shredded cheese \n•\n \n1/4 cup diced bell pepper",
+      "importance_rank": 5,
+      "page_number": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "•\n \n1 cup all-purpose flour \n•\n \n2 tablespoons sugar \n•\n \n1 teaspoon baking powder \n•\n \n1/2 teaspoon baking soda \n•\n \n1/4 teaspoon salt \n•\n \n1 cup buttermilk \n•\n \n1 large egg \n•\n \n2 tablespoons melted butter \n•\n \n1 teaspoon vanilla extract \nInstructions:",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "•\n \nIn a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. \n•\n \nIn another bowl, combine buttermilk, egg, melted butter, and vanilla extract. \n•\n \nPour the wet ingredients into the dry ingredients and stir until just combined. \n•\n \nHeat a non-stick skillet over medium heat and lightly grease it. \n•\n \nPour 1/4 cup of batter onto the skillet for each pancake. \n•\n \nCook until bubbles form on the surface, then flip and cook until golden brown. \n•\n \nServe with syrup and your favorite toppings.",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "•\n \nIn a bowl, whisk together eggs, milk, salt, and pepper. \n•\n \nHeat a non-stick skillet over medium heat and melt the butter. \n•\n \nPour the egg mixture into the skillet. \n•\n \nCook, stirring gently, until the eggs are set but still soft. \n•\n \nServe immediately.",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "•\n \nIn a shallow dish, whisk together eggs, milk, vanilla extract, and cinnamon. \n•\n \nDip each slice of bread into the egg mixture, coating both sides. \n•\n \nHeat a non-stick skillet over medium heat and melt the butter. \n•\n \nCook the bread slices until golden brown on both sides. \n•\n \nServe with syrup and powdered sugar.",
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "•\n \nIn a bowl, whisk the eggs and cook them in a skillet over medium heat. \n•\n \nAdd cheese, sausage or bacon, bell pepper, and onion to the eggs. \n•\n \nCook until the eggs are set and the vegetables are tender. \n•\n \nPlace the egg mixture in the center of the tortilla and roll it up. \n•\n \nServe with salsa.",
+      "page_number": 4
+    }
+  ]
+}

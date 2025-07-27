@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR Professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-27T18:40:58.777891"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Refer to the following lists to determine the methods available for the diﬀerent types of files.",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Method 2\n:\n Drag and drop a file from your system to the \nAcrobat Home page.",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Method 3: Right-click on the file and then select \nConvert to \nAdobe PDF\n.",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Method 4: Open the file in its source application and go \nto \nPrint\n > \nAdobe PDF printer\n.",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Method 1 (Windows only): From the authoring application \ntoolbar, select \nAdobe Acrobat\n > \nCreate and Share Adobe \nPDF\n.",
+      "importance_rank": 5,
+      "page_number": 3
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign® \nfiles, digital images, and more. Diﬀerent types of sources have diﬀerent tools available for PDF \nconversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in \nthe Print dialog box.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "If a file is open in its authoring application (such as a spreadsheet that is open in Microsoft \nExcel), you can convert it to PDF without opening Adobe Acrobat. Similarly, if Acrobat is \nalready open, you don’t have to open the authoring application to convert a file to PDF.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "For example, you can drag files to the Acrobat icon to create PDFs. In this case, Acrobat \napplies the most recently used conversion settings without providing access to those settings. \nIf you want more control over the process, you’ll want to use another method.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "You can select various settings to ensure that your PDF has the best balance between file size, \nresolution, conformity to specific standards, and other factors. The settings you select depend \non your goals for the PDF that you are creating. For example, a PDF intended for high-quality",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "For scanned documents, you can choose from Autodetect Color Mode or several scanning \npresets that are optimized for scanning documents and images in color or black and white. \nYou can modify these presets or use your own custom scanning settings.",
+      "page_number": 6
+    }
+  ]
+}
