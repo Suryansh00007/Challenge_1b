@@ -1,6 +1,6 @@
-# 🧠 Challenge 1B: Persona-Driven Document Intelligence
+#  Challenge 1B: Persona-Driven Document Intelligence
 
-## 🚀 Overview
+##  Overview
 
 This project is a scalable solution for **persona-based document intelligence**.  
 It processes collections of PDFs and intelligently extracts the most relevant **sections** and **refined sub-sections**, based on:
@@ -11,13 +11,13 @@ It supports multilingual documents and automatically creates input and output JS
 
 ---
 
-## 🛠️ What It Does
+##  What It Does
 
 For every `collectionXXX` folder:
 - Reads PDFs from the `/PDFs/` subdirectory.
 - Generates:
-  - 📥 `challenge1b_input.json`: contains challenge metadata and persona info.
-  - 📤 `challenge1b_output.json`: contains top relevant sections and sub-sections from the PDFs.
+  -  `challenge1b_input.json`: contains challenge metadata and persona info.
+  -  `challenge1b_output.json`: contains top relevant sections and sub-sections from the PDFs.
 
 ### Output Includes:
 - Top 5 **Section Titles** (10–20 words) per document.
@@ -30,7 +30,7 @@ Both are tagged with:
 
 ---
 
-## 📚 Libraries Used
+##  Libraries Used
 
 | Library       | Purpose |
 |---------------|---------|
